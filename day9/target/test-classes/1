@@ -1,0 +1,9 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="methods" name="Suite" thread-count="3">
+  <test name="Test">
+    <classes>
+      <class name="com.example.main.day9.Task2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
